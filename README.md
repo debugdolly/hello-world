@@ -40,7 +40,7 @@ Grow into a software or game developer role
 Continue learning languages — both programming and spoken! 🇪🇸💻
 
 📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=rose_pine" alt="Alyssa's GitHub Stats" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=rose_pine" alt="Top Languages" width="48%"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=debugdolly&show_icons=true&theme=rose_pine" alt="Alyssa's GitHub Stats" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debugdolly&layout=compact&theme=rose_pine" alt="Top Languages" width="48%"/> </p>
 📫 Let’s Connect
 
 LinkedIn: [Your LinkedIn URL Here]
