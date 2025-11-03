@@ -43,10 +43,10 @@ Continue learning languages — both programming and spoken! 🇪🇸💻
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=debugdolly&show_icons=true&theme=rose_pine" alt="Alyssa's GitHub Stats" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debugdolly&layout=compact&theme=rose_pine" alt="Top Languages" width="48%"/> </p>
 📫 Let’s Connect
 
-LinkedIn: [Your LinkedIn URL Here]
+LinkedIn: (https://www.linkedin.com/in/alyssa-stonecipher-14b65b30a)
 
-GitHub: [Your GitHub Profile Link]
+GitHub: (https://github.com/debugdolly)
 
-Email: [Optional professional email address]
+Email: debugdoll@gmail.com
 
 💗 "The best journeys begin with curiosity and courage — and I’m just getting started."
