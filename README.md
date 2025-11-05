@@ -11,7 +11,7 @@ As a former foster child, my path hasn’t been traditional, but it’s made me 
 
 🚀 What I’m Working On
 
-Building my first project: Loan Verification Program
+Building my first project: About me webpage
 
 Learning Python fundamentals in Visual Studio Code
 
